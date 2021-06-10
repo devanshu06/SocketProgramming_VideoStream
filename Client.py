@@ -6,7 +6,7 @@ import socket, cv2, pickle, struct
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 #In the host_ip put the IP address you just got as output after running the Server.py code.
-host_ip = '192.168.43.253'
+host_ip = input("Enter the IP:")
 port = 2222     
 client_socket.connect((host_ip,port))
 data = b""
