@@ -2,7 +2,7 @@
 
 In this Repo I have creted the code for VIdeo Live stream using the Socket Programming.
 
-## Blog Link :- https://github.com/devanshu06/SocketProgramming_VideoStream
+## Blog Link :- https://devanshu-singh.medium.com/video-chat-app-using-socket-programming-fbbfdb0ce3c6
 
 ## Steps :-
 
